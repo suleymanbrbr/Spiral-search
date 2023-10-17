@@ -5,7 +5,7 @@ In this project, you are going to implement a program that searches a given inpu
 
 Starting from any coordinate in the matrix, a word can go spirally. Hence, you are expected to search the input file checking all directions from clockwise and counter clockwise. For example: If you go up in the first step, you need to go right in the second step, then go down. If you go right in the first step, you will go down in the second and go left in the third step. You can see possible search locations below. You can assume the search words will contain at least 3 letters.
 
-<img width="770" alt="Screenshot 2023-10-17 at 21 01 02" src="https://github.com/suleymanbrbr/Spiral-search/assets/111366311/9745faaa-3ba9-445e-8083-ebb201d01675">
+<img width="586" alt="Screenshot 2023-10-17 at 21 04 18" src="https://github.com/suleymanbrbr/Spiral-search/assets/111366311/71c75aba-dfe9-4ae5-8910-3799382b607b">
 <img width="360" alt="Screenshot 2023-10-17 at 21 01 15" src="https://github.com/suleymanbrbr/Spiral-search/assets/111366311/c52e7836-50da-4c37-803a-d78b3dd1a91c">
 
 Your program should perform input check and ask for new file name until an input file is found (ma- trix 4 2.board)
